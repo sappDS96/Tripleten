@@ -1,4 +1,4 @@
-# Análisis de calificaciones de películas 🎬
+# Análisis de calificaciones de películas
 
 Se analiza una base de datos con más de 100 mil reseñas de películas para encontrar patrones de puntuación por género, edad y género del usuario. Se entrenan modelos de regresión para predecir calificaciones.
 

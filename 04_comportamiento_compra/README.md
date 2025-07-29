@@ -1,4 +1,4 @@
-# Análisis de planes tarifarios de una empresa móvil 📱
+# Análisis de planes tarifarios de una empresa móvil
 
 Análisis del comportamiento de clientes móviles con planes "Surf" y "Ultimate". Se calculan estadísticas mensuales, ingresos y se evalúan hipótesis sobre ingresos medios por región y plan.
 

@@ -1,4 +1,4 @@
-# Estudio de mercado para videojuegos móviles 🎮
+# Estudio de mercado para videojuegos móviles 
 
 Análisis de 13k juegos móviles para identificar tendencias clave en géneros, ingresos y puntuaciones. Se procesan datos de Google Play para apoyar decisiones de desarrollo y publicación.
 

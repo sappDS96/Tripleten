@@ -1,4 +1,4 @@
-# Análisis de preferencias musicales 🎵
+# Análisis de preferencias musicales
 
 Este proyecto analiza datos de usuarios de música para identificar géneros más populares por región y edad. Se aplican funciones personalizadas para filtrar y comparar hábitos de escucha.
 

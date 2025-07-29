@@ -1,4 +1,4 @@
-# Análisis avanzado de patrones de compra 🧾
+# Análisis avanzado de patrones de compra
 
 Proyecto orientado al análisis de grandes volúmenes de datos para detectar patrones de comportamiento por categorías. Se generan reportes y agrupaciones útiles para decisiones comerciales.
 

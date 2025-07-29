@@ -1,4 +1,4 @@
-# Transformación y análisis de datos de clientes 🛍️
+# Transformación y análisis de datos de clientes
 
 Este proyecto simula una base de datos de usuarios de e-commerce. Se trabaja con estructuras de datos en bruto, que luego son limpiadas, normalizadas y organizadas para su análisis.
 
